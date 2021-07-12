@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tbatochio@hotmail.com
+	name = Thiago Amaral
